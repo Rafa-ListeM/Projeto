@@ -1,0 +1,22 @@
+*{
+    padding: 0;
+    border: 0;
+    box-sizing: 0;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+p{
+    color: green;
+}
+
+h1{
+    color: blue;
+}
+
+h3{
+    color: brown;
+}
+
+li{
+    color: palevioletred;
+}

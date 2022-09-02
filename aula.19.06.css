@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+header{
+    background-color: green;
+    text-align: center;
+    height: 100px;
+}
+
+body{
+    background-color: #437fb8;
+}
+
+#outono{
+    background-image: url(img/outono.webp);
+    margin: 72px;
+    width: 250px;
+    height: 350px;
+    border-radius: 100% 0%;
+    float: left;
+}
+
+#inverno{
+    background-image: url(img/inverno.jpg);
+    margin: 70px;
+    width: 250px;
+    height: 350px;
+    border-radius: 100% 0%;
+    float: left;
+}
+
+#primavera{
+    background-image: url(img/primavera.webp);
+    margin: 70px;
+    width: 250px;
+    height: 350px;
+    border-radius: 100% 0%;
+    float: left;
+}
+
+#verao{
+    background-image: url(img/verão.jpg);
+    margin: 72px;
+    width: 250px;
+    height: 350px;
+    border-radius: 100% 0%;
+    float: left;
+}
+
+footer{
+    margin-top: 620px;
+    height: 69px;
+    background-color: rgb(49, 14, 3);
+}
+
+footer, a{
+    text-align: center;
+}
